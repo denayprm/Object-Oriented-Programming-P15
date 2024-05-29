@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BelajarGUI/BelajarGUI.iml" filepath="$PROJECT_DIR$/BelajarGUI/BelajarGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LatihanGUI/LatihanGUI.iml" filepath="$PROJECT_DIR$/LatihanGUI/LatihanGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 15.iml" filepath="$PROJECT_DIR$/Pertemuan 15.iml" />
+    </modules>
+  </component>
+</project>
